@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "ad646d4ddb741010ab0a487039961910",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-05-13 23:50:12",
+  "sys_id": "4b94ed4ddb741010ab0a48703996196f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-05-13 23:50:12",
+  "value": "x_339650_fcc_devop_fcc_devops_table",
+  "variable": "424ca6465320220002c6435723dc34b5"
+}
